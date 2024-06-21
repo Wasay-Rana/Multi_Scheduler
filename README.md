@@ -95,8 +95,4 @@ Example:
 
 ## Conclusion
 
-This project demonstrates the implementation of a multi-threaded task scheduling and execution system with various scheduling algorithms. It showcases the complexities of task management and the impact of different scheduling strategies on task execution.
-
----
-
-Feel free to modify any specific sections to better match your requirements or preferences.
+This project demonstrates the implementation of a multi-threaded task scheduling and execution system with various scheduling algorithms. It showcases the complexities of task management and the impact of different scheduling strategies on task execution. Any colloboration and addition of features is greatly appreciated.
