@@ -63,7 +63,7 @@ This project, created by Manahil and Wasay as a semester project for the Operati
    ```
 3. Enter the input file name when prompted and select the desired scheduling algorithm:
    ```
-   Enter the input file name: tasks.txt
+   Enter the input file name: test.txt
    Select scheduling algorithm (0: Round Robin, 1: FCFS, 2: Priority, 3: Random): 0
    ```
 
