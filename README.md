@@ -55,7 +55,7 @@ This project, created by Manahil and Wasay as a semester project for the Operati
 
 1. Compile the code using a C compiler (e.g., `gcc`):
    ```bash
-   gcc -o task_scheduler task_scheduler.c -lpthread -lm
+   gcc -o task_scheduler task_scheduler.cpp -lpthread -lm
    ```
 2. Run the executable and follow the prompts:
    ```bash
