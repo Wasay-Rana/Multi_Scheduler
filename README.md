@@ -53,9 +53,9 @@ This project, created by Manahil and Wasay as a semester project for the Operati
 
 ### Running the Program
 
-1. Compile the code using a C compiler (e.g., `gcc`):
+1. Compile the code using a C++ compiler (e.g., `g++`):
    ```bash
-   gcc -o task_scheduler task_scheduler.cpp -lpthread -lm
+   g++ -o task_scheduler task_scheduler.cpp -lpthread -lm
    ```
 2. Run the executable and follow the prompts:
    ```bash
